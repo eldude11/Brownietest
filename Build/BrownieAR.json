@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BrownieAR",
+"productVersion": "0.1",
+"dataUrl": "BrownieAR.data.unityweb",
+"wasmCodeUrl": "BrownieAR.wasm.code.unityweb",
+"wasmFrameworkUrl": "BrownieAR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
