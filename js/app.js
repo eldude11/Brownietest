@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/BrownieAR.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Brownie AR.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
